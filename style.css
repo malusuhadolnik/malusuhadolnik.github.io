@@ -1,0 +1,64 @@
+h1 {
+    font-family: Sacramento, sans-serif;
+    font-size: 3em;
+}
+
+#saudacoes {
+        text-align: center;
+}
+
+#indice {
+    padding: 10px;
+    margin-left: 50px;
+    }
+
+#foto {
+    float: left;
+    padding: 10px;
+    background-color:bisque;
+    margin-left: 50px;
+       
+}
+
+#descricao {
+    float: right;
+    width: 70%;
+    padding: 30px;
+    margin-right: 50px;
+    
+}
+
+#habilidades {
+    clear: both;
+}
+
+h3 {
+    font-size: 1.4em;
+}
+
+body {
+    color: white;
+    background-color: rgb(19, 11, 4);
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 2.5;
+}
+
+.highlight-colour {
+    color: rgb(204, 96, 57)
+}
+  
+.link-style {
+    text-decoration: none;
+}
+
+.fonte-grande {
+    font-size: 17px;
+}
+.fonte-pequena {
+    font-size: 13px;
+}
+
+ul.listadehabilidades li:nth-child(odd){
+    font-style: italic;
+}
